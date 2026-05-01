@@ -1,5 +1,5 @@
 [Unit]
-Description=Kula
+Description=Kula: server monitoring tool
 After=network.target
 
 [Service]
