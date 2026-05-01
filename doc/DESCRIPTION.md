@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+Kula collects system metrics every second by reading directly from /proc and /sys, stores them in a built-in tiered ring-buffer storage engine, and serves them through a real-time Web UI dashboard and a terminal TUI.
